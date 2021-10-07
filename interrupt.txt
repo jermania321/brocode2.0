@@ -1,0 +1,7 @@
+09H = print msg
+0A = string read
+01H = chara read
+02H = chara print
+4CH = terminate
+
+sub 30 = tomake number decimal
